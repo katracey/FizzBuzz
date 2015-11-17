@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150916_FizzBuzz\150916_FizzBuzz\bin\Debug\150916_FizzBuzz.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150916_FizzBuzz\150916_FizzBuzz\bin\Debug\150916_FizzBuzz.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150916_FizzBuzz\150916_FizzBuzz\bin\Debug\150916_FizzBuzz.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150916_FizzBuzz\150916_FizzBuzz\obj\Debug\150916_FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150916_FizzBuzz\150916_FizzBuzz\obj\Debug\150916_FizzBuzz.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150916_FizzBuzz\150916_FizzBuzz\obj\Debug\150916_FizzBuzz.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_FizzBuzz\150916_FizzBuzz\bin\Debug\150916_FizzBuzz.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_FizzBuzz\150916_FizzBuzz\obj\Debug\150916_FizzBuzz.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_FizzBuzz\150916_FizzBuzz\obj\Debug\150916_FizzBuzz.pdb
